@@ -18,4 +18,4 @@ function skillsMember() {
     };
     skill.appendChild(skillButton);
     skills.appendChild(skill);
-}
+} 
